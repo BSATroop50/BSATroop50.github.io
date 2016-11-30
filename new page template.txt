@@ -5,6 +5,12 @@
     <title>The official site of troop 50</title>
   </head>
   <body>
+   </div>
+    <div class="header"> 
+      <a href="/aboutus">About Us</a>
+      <a href="/calendar">Calendar</a>
+      <a href="/index">Home</a>
+    </div>
   <p>
   test
   </p>
